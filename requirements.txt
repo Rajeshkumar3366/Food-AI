@@ -12,3 +12,6 @@ pythreejs==2.1.1
 IPython
 Flask==1.1.1
 fuzzywuzzy==0.18.0
+h5py==2.10.0
+torch==1.10.1
+torchvision==0.11.2
