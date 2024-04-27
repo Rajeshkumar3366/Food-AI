@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-from ellipse_detection.segment import Segment
+from food_volume_estimation.ellipse_detection.segment import Segment
 
 
 class SegmentDetector(object):
